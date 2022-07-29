@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*.nc
+*.shp
+*.shx
+*.dbf
+*.cpg
+*.prj
+*.prj
